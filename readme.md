@@ -10,7 +10,7 @@ Kaggle Jane Street Market Prediction Rank1:
 
 * 队友的模型、建模方式比较独到，更有学习价值
 * 几乎无手工特征
-* DCNv1
+* DCNv1，从keras官网找的baseline （https://keras.io/examples/structured_data/wide_deep_cross_networks/） 
 * 模型没调参过，精调参可能有进一步提升
 * 加入初赛数据有一定提升
 * 加测试集数据有提升
