@@ -7,7 +7,12 @@
 * 模型没调参过，精调参可能有进一步提升
 * 加入初赛数据有一定提升
 * 加测试集数据有提升
-* no trick
+* no trick，不要听那些“大佬”分享的歪门邪道，好好做好基础就行
+
+和其他队伍重合的实验结果：
+* sigmoid作为gate效果更好
+* MMoE与线上分数更接近，DCN分数线下虚高
+* 
 
 ![image](https://user-images.githubusercontent.com/39345674/134325467-69659b15-9ffe-46ec-b2df-93469693b005.png)
 
