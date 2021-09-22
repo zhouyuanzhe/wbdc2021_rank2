@@ -1,5 +1,11 @@
 单模型应该能拿复赛B榜第二。融合没融好
 
+其他Top开源: 
+Kaggle Jane Street Market Prediction Rank1: 
+* https://zhuanlan.zhihu.com/p/355606168
+* https://www.kaggle.com/c/jane-street-market-prediction/discussion/224348
+
+
 比赛期间读了数百篇文章，从只会用MLP的初学者阶段开始慢慢学习，最后算是有一点收获进步，欢迎相关领域的大佬交流工作。比赛只是工程中的一小部分，没必要神话模型的重要性，可能换个初始化参数就能刷新SOTA。
 
 * 队友的模型、建模方式比较独到，更有学习价值
@@ -22,7 +28,3 @@
 ![image](https://user-images.githubusercontent.com/39345674/134325467-69659b15-9ffe-46ec-b2df-93469693b005.png)
 
 
-Top开源: 
-Kaggle Jane Street Market Prediction Rank1: 
-* https://zhuanlan.zhihu.com/p/355606168
-* https://www.kaggle.com/c/jane-street-market-prediction/discussion/224348
