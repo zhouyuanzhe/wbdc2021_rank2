@@ -6,7 +6,7 @@ Kaggle Jane Street Market Prediction Rank1:
 * https://www.kaggle.com/c/jane-street-market-prediction/discussion/224348
 
 
-比赛期间读了数百篇文章，从只会用MLP的初学者阶段开始慢慢学习，最后算是有一点收获进步，欢迎相关领域的大佬交流工作。比赛建模只是工程中的一小部分，没必要神话某个模型。
+比赛期间读了数百篇文章，从只会用MLP的初学者阶段开始慢慢学习，最后算是有一点收获进步，欢迎相关领域的大佬交流工作(wx:zhouyz9452)。比赛建模只是工程中的一小部分，没必要神话某个模型。
 
 * 队友的模型、建模方式比较独到，更有学习价值
 * 几乎无手工特征
